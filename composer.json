@@ -1,0 +1,8 @@
+{
+	"name":"adevelop/htmlcleaner",
+	"autoload":{
+        "psr-4":{
+            "adevelop\\htmlcleaner\\":"/"
+        }
+    }
+}

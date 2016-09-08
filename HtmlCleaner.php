@@ -1,4 +1,6 @@
-﻿<?php
+<?php
+namespace adevelop\htmlcleaner;
+use DOMDocument;
 
 class HtmlCleaner
 {
